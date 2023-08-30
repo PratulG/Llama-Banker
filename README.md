@@ -1,5 +1,5 @@
 # Llama-Banker
-The main work of this application is to find the financial statement of the any input data in the pdf format of the annual financial release of the company. You can run this script locally on colab enviornment.
+The main work of this application is to find the financial statement of the any input data in the pdf format of the annual financial release of the company. You can run this script locally on colab enviornment. I have used "meta-llama/Llama-2-7b-chat-hf" model hosted locally.
 
 ## Files
 
