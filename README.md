@@ -1,5 +1,5 @@
 # Llama-Banker
-The main work of this application is to find the financial statement of the any input data in the pdf format of the annual financial release of the company. You can run this script locally on colab enviornment. I have used "meta-llama/Llama-2-7b-chat-hf" model hosted locally.
+This application is designed to extract answers from financial statements provided in PDF format, sourced from a company's annual financial release. Users can pose questions like "What is the company's equity?" and the application will retrieve the relevant information. The underlying script is tailored for execution in a Google Colab environment with high RAM, leveraging a T4 GPU. For the extraction and response process, it utilizes the "meta-llama/Llama-2-7b-chat-hf" model hosted locally.
 
 ## Files
 
