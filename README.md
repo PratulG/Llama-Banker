@@ -9,7 +9,7 @@ The main work of this application is to find the financial statement of the any 
 
 ### Gradio Interface
 
-- [gradio_interface.py](#) - This Python script contains the Gradio interface for the tool.
+- [Gradio.py](#) - This Python script contains the Gradio interface for the tool.
 
 ### Requirements
 
