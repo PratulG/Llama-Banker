@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+langchain
+einops
+accelerate
+transformers
+bitsandbytes
+scipy
+xformers
+sentencepiece
+llama-index
+llama_hub
+sentence-transformers
+pypdf2
+gradio
